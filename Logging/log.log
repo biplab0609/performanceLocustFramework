@@ -1,0 +1,14 @@
+[2024-06-19 14:02:15,987] Garimas-MacBook-Air/INFO/locust.main: Run time limit set to 10 seconds
+[2024-06-19 14:02:15,988] Garimas-MacBook-Air/INFO/locust.main: Starting Locust 2.29.0
+[2024-06-19 14:02:15,988] Garimas-MacBook-Air/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2024-06-19 14:02:15,988] Garimas-MacBook-Air/INFO/locust.runners: All users spawned: {"LoadTest": 1} (1 total users)
+[2024-06-19 14:02:16,500] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:17,677] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:18,854] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:20,029] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:21,194] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:22,370] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:23,539] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:24,718] Garimas-MacBook-Air/INFO/root: Home Page load success
+[2024-06-19 14:02:25,884] Garimas-MacBook-Air/INFO/locust.main: --run-time limit reached, shutting down
+[2024-06-19 14:02:25,913] Garimas-MacBook-Air/INFO/locust.main: Shutting down (exit code 0)
